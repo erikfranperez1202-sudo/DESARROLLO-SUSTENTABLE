@@ -16,9 +16,9 @@ Enumera todos los componentes usados:
 - github
   
 
-## Diagrama del circuito
+## Diagrama de la automatizacion
 
-<img src="Imagenes/Ecosistema1.jpeg" alt="Diagrama de la automatización">
+<img src="Imagenes/Ecosistema1.jpeg" width="300">
 
 
 ## Código
