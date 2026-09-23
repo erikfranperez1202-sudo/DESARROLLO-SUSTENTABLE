@@ -18,7 +18,7 @@ Enumera todos los componentes usados:
 
 ## Diagrama del circuito
 
-<img src="imagenes/Ecosistema1.jpeg" width="300">
+<img src="imagenes/automatizacion.png" alt="Diagrama de la automatización">
 
 
 ## Código
@@ -34,7 +34,7 @@ Enumera todos los componentes usados:
 
 ## Evidencias de escenario
 
-<img src="imagenes/Ecosistema1.jpeg,Ecosistema2.jpeg,Ecosistema3.jpeg,Ecosistema4.jpeg" width="300">
+<img src="imagenes/Ecosistema1.jpeg/Ecosistema2.jpeg/Ecosistema3.jpeg/Ecosistema4.jpeg/Ecosistema5.jpeg/Ecosistema6.jpeg" width="300">
 
 ## Reporte
 Incluye:
