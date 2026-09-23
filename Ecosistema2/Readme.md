@@ -32,10 +32,14 @@ Enumera todos los componentes usados:
 
 [Ver video en YouTube]([https://www.youtube.com/watch?v=T5Aq7cRc-mU](https://www.youtube.com/watch?v=r36q2z-AkHk&sttick=0)
 
-## Evidencias de escenario
+## Evidencias de la automatizacion
 
-<img src="Imagenes/Ecosistema1.jpeg,Ecosistema2.jpeg,Ecosistema3.jpeg,Ecosistema4.jpeg,Ecosistema5.jpeg,Ecosistema6.jpeg" width="300">
-
+<img src="Imagenes/Ecosistema1.jpeg" width="300">
+<img src="Imagenes/Ecosistema2.jpeg" width="300">
+<img src="Imagenes/Ecosistema3.jpeg" width="300">
+<img src="Imagenes/Ecosistema4.jpeg" width="300">
+<img src="Imagenes/Ecosistema5.jpeg" width="300">
+<img src="Imagenes/Ecosistema6.jpeg" width="300">
 ## Reporte
 Incluye:
 [Resultados.pdf](Resultados/Resultados.pdf)
