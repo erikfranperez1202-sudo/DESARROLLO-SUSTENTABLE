@@ -18,7 +18,7 @@ Enumera todos los componentes usados:
 
 ## Diagrama del circuito
 
-<img src="imagenes/automatizacion.png" alt="Diagrama de la automatización">
+<img src="imagenes/Ecosistema1.jpeg" alt="Diagrama de la automatización">
 
 
 ## Código
