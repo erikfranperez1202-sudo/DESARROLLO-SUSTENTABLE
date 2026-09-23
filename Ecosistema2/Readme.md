@@ -34,15 +34,11 @@ Enumera todos los componentes usados:
 
 ## Evidencias de escenario
 
-<img src="imagenes/Ecosistema1.jpeg/Ecosistema2.jpeg/Ecosistema3.jpeg/Ecosistema4.jpeg/Ecosistema5.jpeg/Ecosistema6.jpeg" width="300">
+<img src="Imagenes/Ecosistema1.jpeg/Ecosistema2.jpeg/Ecosistema3.jpeg/Ecosistema4.jpeg/Ecosistema5.jpeg/Ecosistema6.jpeg" width="300">
 
 ## Reporte
 Incluye:
 [Resultados.pdf](Resultados/Resultados.pdf)
-
-- Gráficas (insertar imagen o link)
-- Tablas de datos
-- Observaciones sobre el comportamiento del sistema
 
 ## Conclusiones
 En conclusión, la automatización “ECOSISTEMA” permite integrar Telegram e inteligencia artificial para facilitar la identificación y clasificación de organismos. Su implementación optimiza el proceso de aprendizaje y demuestra cómo la tecnología puede utilizarse de manera eficiente como apoyo en actividades educativas.
