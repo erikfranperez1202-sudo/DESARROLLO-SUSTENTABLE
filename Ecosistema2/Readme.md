@@ -34,7 +34,7 @@ Enumera todos los componentes usados:
 
 ## Evidencias de escenario
 
-<img src="Imagenes/Ecosistema1.jpeg/Ecosistema2.jpeg/Ecosistema3.jpeg/Ecosistema4.jpeg/Ecosistema5.jpeg/Ecosistema6.jpeg" width="300">
+<img src="Imagenes/Ecosistema1.jpeg,Ecosistema2.jpeg,Ecosistema3.jpeg,Ecosistema4.jpeg,Ecosistema5.jpeg,Ecosistema6.jpeg" width="300">
 
 ## Reporte
 Incluye:
