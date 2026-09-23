@@ -18,7 +18,7 @@ Enumera todos los componentes usados:
 
 ## Diagrama del circuito
 
-<img src="Ecosistema1.jpeg" width="300">
+<img src="imagenes/Ecosistema1.jpeg" width="300">
 
 
 ## Código
@@ -34,7 +34,7 @@ Enumera todos los componentes usados:
 
 ## Evidencias de escenario
 
-<img src="Diagrama/Ecosistema1.jpeg,Ecosistema2.jpeg,Ecosistema3.jpeg,Ecosistema4.jpeg" width="300">
+<img src="imagenes/Ecosistema1.jpeg,Ecosistema2.jpeg,Ecosistema3.jpeg,Ecosistema4.jpeg" width="300">
 
 ## Reporte
 Incluye:
