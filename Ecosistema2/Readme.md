@@ -22,7 +22,7 @@ Enumera todos los componentes usados:
 
 
 ## Código
-[ECOSISTEMA.blueprint](Codigo/ECOSISTEMA.blueprint)
+[ECOSISTEMA.blueprint](Codigo/ECOSISTEMA.blueprint.json)
 
 
 
