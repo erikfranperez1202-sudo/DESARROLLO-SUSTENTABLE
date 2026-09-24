@@ -45,6 +45,6 @@ Enumera todos los componentes usados:
 En conclusión, la automatización “ECOSISTEMA” permite integrar Telegram e inteligencia artificial para facilitar la identificación y clasificación de organismos. Su implementación optimiza el proceso de aprendizaje y demuestra cómo la tecnología puede utilizarse de manera eficiente como apoyo en actividades educativas.
 
 ## Resultados
-[resultados.pdf](Resutados/resultados.pdf)
+[resultados.pdf](Resultados/resultados.pdf)
 
 
