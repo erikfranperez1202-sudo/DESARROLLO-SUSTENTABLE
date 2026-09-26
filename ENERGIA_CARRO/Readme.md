@@ -42,4 +42,4 @@ Enumera todos los componentes usados:
 ## Conclusiones
 El proyecto permitió aplicar de manera práctica los conocimientos sobre energía solar, conexiones eléctricas y movimiento mecánico, logrando integrar los diferentes componentes para construir un carrito funcional y comprender el aprovechamiento de la energía solar.
 ## Resultados
-[resultados.pdf](Resultados/Resultados_Carrito_Panel_Solar.pdf)
+[resultados.pdf](Resultados/resultados_carrito_panel_solar.pdf)
