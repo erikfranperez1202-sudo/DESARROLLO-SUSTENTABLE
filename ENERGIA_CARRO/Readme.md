@@ -26,9 +26,9 @@ Enumera todos los componentes usados:
 
 ## Video del funcionamiento
 
-[Video](Video/Readme.txt)
+[Video]()
 
-[Ver video en YouTube]([https://youtu.be/cl9x-oH7x34](https://youtu.be/cl9x-oH7x34)
+[Ver video en YouTube]([]()
 
 ## Evidencias de la automatizacion
 
