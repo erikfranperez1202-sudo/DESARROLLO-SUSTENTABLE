@@ -46,8 +46,7 @@ Enumera todos los componentes usados:
 <img src="IMAGENES/litosfera7.jpeg" width="300">
 <img src="IMAGENES/litosfera8.jpeg" width="300">
 ## Conclusiones
-En conclusión, el proyecto "litosfera" permitió comprender de manera práctica la importancia de sus componentes y su relación con el entorno, 
-reforzando los conocimientos sobre el suelo y los procesos que forman parte de nuestro planeta.
+El proyecto de la litósfera permitió comprender de manera práctica la importancia de sus componentes y su relación con el entorno, reforzando los conocimientos sobre el suelo y los procesos que forman parte de nuestro planeta.
 ## Resultados
 [Resultados.pdf](RESULTADOS/Resultados.pdf)
 
