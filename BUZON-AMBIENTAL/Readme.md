@@ -23,7 +23,7 @@ Enumera todos los componentes usados:
 
 
 ## Código
-[ECOSISTEMA.blueprint](Codigo/BuzonCiudadano.blueprint.json)
+[ECOSISTEMA.blueprint](Codigo/Buzon Ciudadano.blueprint.json)
 
 
 
