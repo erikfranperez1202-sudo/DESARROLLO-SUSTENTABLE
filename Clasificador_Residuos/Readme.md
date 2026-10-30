@@ -22,7 +22,7 @@ Enumera todos los componentes usados:
 
 
 ## Código
-[Clasificador_de_residuos.blueprint](Codigo/Classificador_de_Residuos.blueprint.json)
+[Clasificador_de_Residuos.blueprint.json](Codigo/Clasificador_de_Residuos.blueprint.json)
 
 
 
