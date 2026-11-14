@@ -35,16 +35,15 @@ Enumera todos los componentes usados:
 
 [Video](Video/Readme.txt)
 
-[Ver video en YouTube]([]())
+[Ver video en YouTube]([https://youtu.be/l0iQL7BLzcA](https://youtu.be/l0iQL7BLzcA))
 
 ## Evidencias de la automatizacion
 
-<img src="Imagenes/Ecosistema1.jpeg" width="300">
-<img src="Imagenes/Ecosistema2.jpeg" width="300">
-<img src="Imagenes/Ecosistema3.jpeg" width="300">
-<img src="Imagenes/Ecosistema4.jpeg" width="300">
-<img src="Imagenes/Ecosistema5.jpeg" width="300">
-<img src="Imagenes/Ecosistema6.jpeg" width="300">
+<img src="Imagenes/Simulador1.jpg" width="300">
+<img src="Imagenes/Simulador2.jpg" width="300">
+<img src="Imagenes/Simulador3.jpg" width="300">
+<img src="Imagenes/Simulador.jpg" width="300">
+
 
 ## Conclusiones
 En conclusión, el simulador permite observar cómo la oferta y la demanda determinan el precio de un recurso como el camarón: cuando la oferta baja o la demanda sube, el precio aumenta y se genera una alerta de escasez. La integración de Arduino, Make y Telegram muestra cómo la tecnología convierte un fenómeno económico en datos y avisos automáticos útiles para un productor o una cooperativa. Como limitación, el modelo es lineal y no considera factores reales como el clima, el costo del combustible, las importaciones ni el costo ambiental de producir camarón.
