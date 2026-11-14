@@ -45,6 +45,6 @@ Enumera todos los componentes usados:
 En conclusión, la automatización "Encuesta ¿Compras local o global?" permite integrar una página web, Make, Google Sheets e inteligencia artificial para analizar los hábitos de compra de una comunidad y relacionarlos con la economía local, el PIB y el impacto ambiental. Su implementación demuestra cómo la tecnología puede apoyar el análisis de información y, a la vez, la importancia de verificar con fórmulas los resultados que entrega la IA.
 
 ## Resultados
-[resultados.pdf](Resultados/Resultados-encuesta.pdf)
+[Resultados.pdf](Resultados/Resultados-Encuesta.pdf)
 
 
