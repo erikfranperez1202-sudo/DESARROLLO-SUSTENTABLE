@@ -41,7 +41,6 @@ Enumera todos los componentes usados:
 
 <img src="Imagenes/Simulador1.jpg" width="300">
 <img src="Imagenes/Simulador2.jpg" width="300">
-<img src="Imagenes/Simulador3.jpg" width="300">
 <img src="Imagenes/Simulador.jpg" width="300">
 
 
