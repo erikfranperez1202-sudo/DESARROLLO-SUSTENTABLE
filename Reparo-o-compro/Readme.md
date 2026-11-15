@@ -30,7 +30,7 @@ Enumera todos los componentes usados:
 
 [Video](Video/Readme.txt)
 
-[Ver video en YouTube]([https://youtu.be/cl9x-oH7x34](https://youtu.be/cl9x-oH7x34)
+[Ver video en YouTube]([https://youtu.be/i1a9sy0j1p4](https://youtu.be/i1a9sy0j1p4))
 
 ## Evidencias de la automatizacion
 
